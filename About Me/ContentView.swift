@@ -34,7 +34,6 @@ struct ContentView: View {
             .cornerRadius(15)
             .shadow(radius: 15)
             .padding()
-            Text("Hello")
             
             
         }
